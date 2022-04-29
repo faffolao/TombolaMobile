@@ -1,5 +1,5 @@
 # TombolaMobile
-Tombola Mobile è la versione per Android della Tombola, creata con HTML, CSS e JS e convertita in applicativo Android mediante Cordova. 
+Tombola Mobile è la versione per Android della [Tombola](https://github.com/faffolao/TombolaBasic), creata con HTML, CSS e JS e convertita in applicativo Android mediante Cordova. 
 ## Funzionalità
  - Facile da usare
  - Leggera
